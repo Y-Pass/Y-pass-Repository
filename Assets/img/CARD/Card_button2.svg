@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241.3" height="50.3" viewBox="0 0 241.3 50.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+        stroke: #cad43e;
+        stroke-miterlimit: 10;
+        stroke-width: 2.3px;
+        opacity: 0.63;
+      }
+    </style>
+  </defs>
+  <path id="Card_button" class="cls-1" d="M-1400,516h-240V504.5h1.237V515h237.526V504.5H-1400V516Zm-238.763-36.5H-1640V467h240v12.5h-1.237V468h-237.526v11.5Z" transform="translate(1640.65 -466.35)"/>
+</svg>

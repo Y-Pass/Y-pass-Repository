@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.828" height="42.414" viewBox="0 0 28.828 42.414">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0e3f47;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="arrow_down" data-name="Сгруппировать 66" transform="translate(-13.086 -20.5)">
+    <line id="Линия_1" data-name="Линия 1" class="cls-1" y2="39" transform="translate(27.5 21.5)"/>
+    <line id="Линия_2" data-name="Линия 2" class="cls-1" x2="13" y2="13" transform="translate(14.5 48.5)"/>
+    <line id="Линия_3" data-name="Линия 3" class="cls-1" x2="13" y2="13" transform="translate(40.5 48.5) rotate(90)"/>
+  </g>
+</svg>
